@@ -225,7 +225,7 @@
     "relativePath": "prefab\\webview.prefab"
   },
   "bcb418d6-e49c-4be0-bc8a-81b84574d9a5": {
-    "asset": 1556288834930,
+    "asset": 1556294902386,
     "meta": 1555599815695,
     "relativePath": "resources"
   },
@@ -242,10 +242,10 @@
   "217a3a6e-3e0c-48c0-88f1-79d3b99f37af": {
     "asset": 1556288834901,
     "meta": 1555599865041,
-    "relativePath": "resources\\bigImg"
+    "relativePath": "bigImg"
   },
   "b5d6ad11-eb36-4a55-aa45-f46df11e84c7": {
-    "asset": 1556288834925,
+    "asset": 1556294906465,
     "meta": 1555599902729,
     "relativePath": "resources\\minImg"
   },
@@ -255,8 +255,8 @@
     "relativePath": "resources\\prefab"
   },
   "9bb12bae-7382-40bf-9a29-793c4d59a90e": {
-    "asset": 1556294947997,
-    "meta": 1556294948031,
+    "asset": 1556296160731,
+    "meta": 1556296160763,
     "relativePath": "scene\\Level01.fire"
   },
   "7416f028-5bcf-4caf-8727-6d03eb514ac6": {
@@ -292,7 +292,7 @@
   "223bce69-6db9-4a70-892f-d89fa4bce95d": {
     "asset": 1555601199340,
     "meta": 1555601199497,
-    "relativePath": "resources\\bigImg\\bg_level01.png"
+    "relativePath": "bigImg\\bg_level01.png"
   },
   "35ecda40-9301-494c-8023-eb39ba6f45a7": {
     "asset": 1556288835023,
@@ -355,7 +355,7 @@
     "relativePath": "resources\\minImg\\paodan.png"
   },
   "57957fad-17e4-44c1-9b55-01958a9ed850": {
-    "asset": 1556288835032,
+    "asset": 1556293959180,
     "meta": 1555686013735,
     "relativePath": "script\\weapon"
   },
@@ -367,107 +367,107 @@
   "e68a4204-7601-4c37-8c6e-4e5fac77aaf0": {
     "asset": 1556288834770,
     "meta": 1555829150433,
-    "relativePath": "resources\\audio"
+    "relativePath": "audio"
   },
   "9ffec6e2-2f62-40ac-8609-ec87780c8e3e": {
     "asset": 1556288834878,
     "meta": 1555829468986,
-    "relativePath": "resources\\audio\\music"
+    "relativePath": "audio\\music"
   },
   "d6975f4c-5569-4b55-a154-6d5c59817b11": {
     "asset": 1555829483719,
     "meta": 1555829483727,
-    "relativePath": "resources\\audio\\music\\jiqingguodu.mp3"
+    "relativePath": "audio\\music\\jiqingguodu.mp3"
   },
   "a72fbccf-a6b7-4d98-95fa-5a2b4fa1ba01": {
     "asset": 1555833234075,
     "meta": 1555832128303,
-    "relativePath": "resources\\audio\\music\\houudan.mp3"
+    "relativePath": "audio\\music\\houudan.mp3"
   },
   "97dcfa53-b4ba-47c0-aa53-cd880c69339f": {
     "asset": 1555835196231,
     "meta": 1555833376161,
-    "relativePath": "resources\\audio\\music\\zhongjian.mp3"
+    "relativePath": "audio\\music\\zhongjian.mp3"
   },
   "2087c8e4-5281-4205-ae60-85d20bf41111": {
     "asset": 1555835196231,
     "meta": 1555832128302,
-    "relativePath": "resources\\audio\\music\\guodu.mp3"
+    "relativePath": "audio\\music\\guodu.mp3"
   },
   "1f0beca0-d770-4445-81a7-eb708a510422": {
     "asset": 1555835471861,
     "meta": 1555835471869,
-    "relativePath": "resources\\audio\\music\\hdl8bg.mp3"
+    "relativePath": "audio\\music\\hdl8bg.mp3"
   },
   "1440262b-25d3-41be-9059-fb5ba75456c9": {
     "asset": 1555835685158,
     "meta": 1555835685164,
-    "relativePath": "resources\\audio\\music\\renlong1.mp3"
+    "relativePath": "audio\\music\\renlong1.mp3"
   },
   "bf159da1-6717-48c7-af40-853f542efb26": {
     "asset": 1555835685158,
     "meta": 1555835685166,
-    "relativePath": "resources\\audio\\music\\renlong3.mp3"
+    "relativePath": "audio\\music\\renlong3.mp3"
   },
   "7e3f3063-fac4-4ba5-bf32-07e5620a5855": {
     "asset": 1555835734617,
     "meta": 1555835734623,
-    "relativePath": "resources\\audio\\gandiao.mp3"
+    "relativePath": "audio\\gandiao.mp3"
   },
   "a012248f-918a-4f39-9ef2-66a1bbe9cbf5": {
     "asset": 1555835758283,
     "meta": 1555835758287,
-    "relativePath": "resources\\audio\\baodiao2.mp3"
+    "relativePath": "audio\\baodiao2.mp3"
   },
   "6096066e-0881-44c0-9e27-737011890c25": {
     "asset": 1555835783609,
     "meta": 1555835783613,
-    "relativePath": "resources\\audio\\baodiao3.mp3"
+    "relativePath": "audio\\baodiao3.mp3"
   },
   "adde8e8d-8fab-4302-b6b8-80fcc9d3766e": {
     "asset": 1555835797425,
     "meta": 1555835797430,
-    "relativePath": "resources\\audio\\fantan.mp3"
+    "relativePath": "audio\\fantan.mp3"
   },
   "e7296c15-1570-4931-8fb4-321b7a2a6863": {
     "asset": 1555835818266,
     "meta": 1555835818270,
-    "relativePath": "resources\\audio\\jg.mp3"
+    "relativePath": "audio\\jg.mp3"
   },
   "7859b14f-d8ec-4fae-96d0-9b0e6c073133": {
     "asset": 1555835835616,
     "meta": 1555835835619,
-    "relativePath": "resources\\audio\\shandian.mp3"
+    "relativePath": "audio\\shandian.mp3"
   },
   "5b4e4362-8c47-4c33-b2bc-7431e8ed3103": {
     "asset": 1555835863604,
     "meta": 1555835656576,
-    "relativePath": "resources\\audio\\getbao.mp3"
+    "relativePath": "audio\\getbao.mp3"
   },
   "110de457-396e-4c3f-8642-6dd6af2efe1e": {
     "asset": 1555835902723,
     "meta": 1555835902729,
-    "relativePath": "resources\\audio\\kh_tan.mp3"
+    "relativePath": "audio\\kh_tan.mp3"
   },
   "0cf23c7d-e976-46c3-95b1-36db19769607": {
     "asset": 1555836047289,
     "meta": 1555836047301,
-    "relativePath": "resources\\audio\\music\\boss_hdl.mp3"
+    "relativePath": "audio\\music\\boss_hdl.mp3"
   },
   "6f59e37c-612b-4f74-9d9d-a5640df68167": {
     "asset": 1555836090660,
     "meta": 1555836090667,
-    "relativePath": "resources\\audio\\zhadan.mp3"
+    "relativePath": "audio\\zhadan.mp3"
   },
   "14a5d213-4879-4594-88c0-65b756c8dab1": {
     "asset": 1555836120073,
     "meta": 1555836120077,
-    "relativePath": "resources\\audio\\zidan.mp3"
+    "relativePath": "audio\\zidan.mp3"
   },
   "c0aeb439-a5ed-4350-8f93-3f2acae3ba1b": {
     "asset": 1555836138445,
     "meta": 1555836138454,
-    "relativePath": "resources\\audio\\dabaop.mp3"
+    "relativePath": "audio\\dabaop.mp3"
   },
   "43d223b4-c39c-4a69-a17b-5402a185289b": {
     "asset": 1555839563426,
@@ -477,12 +477,12 @@
   "64d2cdaa-eef9-4550-9e51-333c685917c0": {
     "asset": 1555839563427,
     "meta": 1555839563573,
-    "relativePath": "resources\\bigImg\\bgup.png"
+    "relativePath": "bigImg\\bgup.png"
   },
   "0c147f67-0cc0-4fbf-b039-ed4cfdd4d046": {
     "asset": 1555839563429,
     "meta": 1555839563640,
-    "relativePath": "resources\\bigImg\\bg_level01g.png"
+    "relativePath": "bigImg\\bg_level01g.png"
   },
   "c04f1f04-15c2-498c-bb50-0c0847215353": {
     "asset": 1555843555581,
