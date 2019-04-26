@@ -225,32 +225,32 @@
     "relativePath": "prefab\\webview.prefab"
   },
   "bcb418d6-e49c-4be0-bc8a-81b84574d9a5": {
-    "asset": 1555600604158,
+    "asset": 1556288834930,
     "meta": 1555599815695,
     "relativePath": "resources"
   },
   "00c7359a-68f1-4807-91bc-173521300631": {
-    "asset": 1555686026390,
+    "asset": 1556288835028,
     "meta": 1555599842793,
     "relativePath": "script"
   },
   "b760c65d-1823-4319-bc6e-bf1cef9f1329": {
-    "asset": 1555600055117,
+    "asset": 1556288834959,
     "meta": 1555599853817,
     "relativePath": "scene"
   },
   "217a3a6e-3e0c-48c0-88f1-79d3b99f37af": {
-    "asset": 1555601199347,
+    "asset": 1556288834901,
     "meta": 1555599865041,
     "relativePath": "resources\\bigImg"
   },
   "b5d6ad11-eb36-4a55-aa45-f46df11e84c7": {
-    "asset": 1555685574941,
+    "asset": 1556288834925,
     "meta": 1555599902729,
     "relativePath": "resources\\minImg"
   },
   "0f380ca8-6d52-4ca6-b82c-5c6b6b239f0e": {
-    "asset": 1555687038375,
+    "asset": 1556288834946,
     "meta": 1555599922730,
     "relativePath": "resources\\prefab"
   },
@@ -285,7 +285,7 @@
     "relativePath": "resources\\animation\\player_ani.anim"
   },
   "83ec9afe-1036-4789-a385-b348d814e803": {
-    "asset": 1555684754653,
+    "asset": 1556288834680,
     "meta": 1555600601018,
     "relativePath": "resources\\animation"
   },
@@ -295,7 +295,7 @@
     "relativePath": "resources\\bigImg\\bg_level01.png"
   },
   "35ecda40-9301-494c-8023-eb39ba6f45a7": {
-    "asset": 1555682792534,
+    "asset": 1556288835023,
     "meta": 1555682757958,
     "relativePath": "script\\player"
   },
@@ -355,7 +355,7 @@
     "relativePath": "resources\\minImg\\paodan.png"
   },
   "57957fad-17e4-44c1-9b55-01958a9ed850": {
-    "asset": 1555686212837,
+    "asset": 1556288835032,
     "meta": 1555686013735,
     "relativePath": "script\\weapon"
   },
@@ -365,12 +365,12 @@
     "relativePath": "resources\\prefab\\zidan.prefab"
   },
   "e68a4204-7601-4c37-8c6e-4e5fac77aaf0": {
-    "asset": 1555829150431,
+    "asset": 1556288834770,
     "meta": 1555829150433,
     "relativePath": "resources\\audio"
   },
   "9ffec6e2-2f62-40ac-8609-ec87780c8e3e": {
-    "asset": 1555829468983,
+    "asset": 1556288834878,
     "meta": 1555829468986,
     "relativePath": "resources\\audio\\music"
   },
@@ -495,7 +495,7 @@
     "relativePath": "script\\AudioManager.ts"
   },
   "fa75b4fa-cfc3-48f3-8371-5297939a27f0": {
-    "asset": 1555849040539,
+    "asset": 1556288835009,
     "meta": 1555849040543,
     "relativePath": "script\\enemy"
   },

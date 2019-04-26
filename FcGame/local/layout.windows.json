@@ -20,7 +20,7 @@
                 ],
                 "height": 471,
                 "type": "panel",
-                "width": 204
+                "width": 369
               },
               {
                 "active": 0,
@@ -29,12 +29,12 @@
                 ],
                 "height": 455,
                 "type": "panel",
-                "width": 204
+                "width": 369
               }
             ],
             "height": 929,
             "type": "dock-v",
-            "width": 204
+            "width": 369
           },
           {
             "children": [
@@ -45,7 +45,7 @@
                 ],
                 "height": 596,
                 "type": "panel",
-                "width": 1171
+                "width": 1006
               },
               {
                 "active": 0,
@@ -55,12 +55,12 @@
                 ],
                 "height": 330,
                 "type": "panel",
-                "width": 1171
+                "width": 1006
               }
             ],
             "height": 929,
             "type": "dock-v",
-            "width": 1171
+            "width": 1006
           },
           {
             "active": 0,
@@ -82,7 +82,9 @@
         "scene",
         "timeline"
       ]
-    }
+    },
+    "window-1556291306592": {},
+    "worker": {}
   },
   "panels": {
     "project-settings": {
