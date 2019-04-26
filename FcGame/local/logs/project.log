@@ -164,3 +164,189 @@
 2019-04-26T15:10:34.823Z - normal: Generating main.js from C:\CocosCreator\resources\static\build-templates\shares\main.js
 2019-04-26T15:10:34.848Z - normal: Generating html from C:\CocosCreator\resources\static\build-templates\web-desktop\template\index.html
 2019-04-26T15:10:34.867Z - normal: Built to "D:\learn\work\FC_Game\FcGame\build\web-desktop" successfully
+2019-04-26T15:37:57.667Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "D:\\learn\\work\\FC_Game\\FcGame\\build",
+  "debug": false,
+  "dest": "D:\\learn\\work\\FC_Game\\FcGame\\build\\web-desktop",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.FcGame",
+  "platform": "web-desktop",
+  "previewHeight": 640,
+  "previewWidth": 1130,
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    "9bb12bae-7382-40bf-9a29-793c4d59a90e"
+  ],
+  "sourceMaps": false,
+  "startScene": "9bb12bae-7382-40bf-9a29-793c4d59a90e",
+  "template": "link",
+  "title": "FcGame",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "b021cbcf-22d2-42",
+  "zipCompressJs": true,
+  "project": "D:\\learn\\work\\FC_Game\\FcGame",
+  "projectName": "FcGame",
+  "debugBuildWorker": false
+}
+2019-04-26T15:37:57.673Z - normal: Building D:\learn\work\FC_Game\FcGame
+2019-04-26T15:37:57.673Z - normal: Destination D:\learn\work\FC_Game\FcGame\build\web-desktop
+2019-04-26T15:37:57.675Z - normal: Delete D:\learn\work\FC_Game\FcGame\build\web-desktop\**\*
+2019-04-26T15:38:01.420Z - normal: Compiled project javascript file successfully
+2019-04-26T15:38:01.421Z - normal: Start building assets
+2019-04-26T15:38:01.421Z - normal: Start spawn build-worker
+2019-04-26T15:38:02.905Z - normal: Finish spawn build-worker
+2019-04-26T15:38:02.905Z - normal: Start init build-worker
+2019-04-26T15:38:06.573Z - normal: 1.8.1
+2019-04-26T15:38:06.755Z - error: A Class already exists with the same __classname__ : "Zidan".
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\js.js:373:24
+    at Object.js.setClassName (C:\CocosCreator\resources\engine\cocos2d\core\platform\js.js:403:9)
+    at doDefine (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:339:8)
+    at define (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:358:15)
+    at Object.CCClass [as Class] (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:920:15)
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClassDecorator.js:279:18
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClassDecorator.js:60:20
+    at window.__decorate (C:\CocosCreator\resources\engine\polyfill\typescript.js:29:95)
+    at D:\learn\work\FC_Game\FcGame\temp\quick-scripts\assets\script\weapon\Zidan.js:44:13
+2019-04-26T15:38:06.756Z - error: A Class already exists with the same __cid__ : "521f56g7ZZG24sDyJfVvDL8".
+    at Object._setClassId (C:\CocosCreator\resources\engine\cocos2d\core\platform\js.js:373:24)
+    at define (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:364:20)
+    at Object.CCClass [as Class] (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:920:15)
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClassDecorator.js:279:18
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClassDecorator.js:60:20
+    at window.__decorate (C:\CocosCreator\resources\engine\polyfill\typescript.js:29:95)
+    at D:\learn\work\FC_Game\FcGame\temp\quick-scripts\assets\script\weapon\Zidan.js:44:13
+    at __define (D:\learn\work\FC_Game\FcGame\temp\quick-scripts\assets\script\weapon\Zidan.js:48:2)
+    at D:\learn\work\FC_Game\FcGame\temp\quick-scripts\assets\script\weapon\Zidan.js:54:13
+2019-04-26T15:38:06.758Z - normal: Finish init build-worker
+2019-04-26T15:38:06.758Z - normal: Start build-assets in worker
+2019-04-26T15:38:07.906Z - normal: Finish build-assets in worker
+2019-04-26T15:38:07.949Z - normal: Finish building assets
+2019-04-26T15:38:08.002Z - normal: Start building raw assets
+2019-04-26T15:38:08.004Z - normal: Start building plugin scripts
+2019-04-26T15:38:08.133Z - normal: Finish building raw assets
+2019-04-26T15:38:08.147Z - normal: Generating main.js from C:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-04-26T15:38:08.169Z - normal: Generating html from C:\CocosCreator\resources\static\build-templates\web-desktop\template\index.html
+2019-04-26T15:38:08.190Z - normal: Built to "D:\learn\work\FC_Game\FcGame\build\web-desktop" successfully
+2019-04-26T15:40:24.684Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "D:\\learn\\work\\FC_Game\\FcGame\\build",
+  "debug": false,
+  "dest": "D:\\learn\\work\\FC_Game\\FcGame\\build\\web-desktop",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.FcGame",
+  "platform": "web-desktop",
+  "previewHeight": 640,
+  "previewWidth": 1130,
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    "9bb12bae-7382-40bf-9a29-793c4d59a90e"
+  ],
+  "sourceMaps": false,
+  "startScene": "9bb12bae-7382-40bf-9a29-793c4d59a90e",
+  "template": "link",
+  "title": "FcGame",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "b021cbcf-22d2-42",
+  "zipCompressJs": true,
+  "project": "D:\\learn\\work\\FC_Game\\FcGame",
+  "projectName": "FcGame",
+  "debugBuildWorker": false
+}
+2019-04-26T15:40:24.688Z - normal: Building D:\learn\work\FC_Game\FcGame
+2019-04-26T15:40:24.688Z - normal: Destination D:\learn\work\FC_Game\FcGame\build\web-desktop
+2019-04-26T15:40:24.690Z - normal: Delete D:\learn\work\FC_Game\FcGame\build\web-desktop\**\*
+2019-04-26T15:40:28.099Z - normal: Compiled project javascript file successfully
+2019-04-26T15:40:28.099Z - normal: Start building assets
+2019-04-26T15:40:28.100Z - normal: Start spawn build-worker
+2019-04-26T15:40:29.461Z - normal: Finish spawn build-worker
+2019-04-26T15:40:29.461Z - normal: Start init build-worker
+2019-04-26T15:40:32.877Z - normal: 1.8.1
+2019-04-26T15:40:33.010Z - error: A Class already exists with the same __classname__ : "Zidan".
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\js.js:373:24
+    at Object.js.setClassName (C:\CocosCreator\resources\engine\cocos2d\core\platform\js.js:403:9)
+    at doDefine (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:339:8)
+    at define (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:358:15)
+    at Object.CCClass [as Class] (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:920:15)
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClassDecorator.js:279:18
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClassDecorator.js:60:20
+    at window.__decorate (C:\CocosCreator\resources\engine\polyfill\typescript.js:29:95)
+    at D:\learn\work\FC_Game\FcGame\temp\quick-scripts\assets\script\weapon\Zidan.js:44:13
+2019-04-26T15:40:33.011Z - error: A Class already exists with the same __cid__ : "521f56g7ZZG24sDyJfVvDL8".
+    at Object._setClassId (C:\CocosCreator\resources\engine\cocos2d\core\platform\js.js:373:24)
+    at define (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:364:20)
+    at Object.CCClass [as Class] (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:920:15)
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClassDecorator.js:279:18
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClassDecorator.js:60:20
+    at window.__decorate (C:\CocosCreator\resources\engine\polyfill\typescript.js:29:95)
+    at D:\learn\work\FC_Game\FcGame\temp\quick-scripts\assets\script\weapon\Zidan.js:44:13
+    at __define (D:\learn\work\FC_Game\FcGame\temp\quick-scripts\assets\script\weapon\Zidan.js:48:2)
+    at D:\learn\work\FC_Game\FcGame\temp\quick-scripts\assets\script\weapon\Zidan.js:54:13
+2019-04-26T15:40:33.011Z - normal: Finish init build-worker
+2019-04-26T15:40:33.012Z - normal: Start build-assets in worker
+2019-04-26T15:40:33.990Z - normal: Finish build-assets in worker
+2019-04-26T15:40:34.013Z - normal: Finish building assets
+2019-04-26T15:40:34.066Z - normal: Start building raw assets
+2019-04-26T15:40:34.067Z - normal: Start building plugin scripts
+2019-04-26T15:40:34.159Z - normal: Finish building raw assets
+2019-04-26T15:40:34.174Z - normal: Generating main.js from C:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-04-26T15:40:34.187Z - normal: Generating html from C:\CocosCreator\resources\static\build-templates\web-desktop\template\index.html
+2019-04-26T15:40:34.224Z - normal: Built to "D:\learn\work\FC_Game\FcGame\build\web-desktop" successfully

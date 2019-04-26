@@ -42,8 +42,8 @@ export default class Player extends cc.Component {
 
     onEnable() {
         cc.director.getCollisionManager().enabled = true
-        cc.director.getCollisionManager().enabledDrawBoundingBox = true
-        cc.director.getCollisionManager().enabledDebugDraw = true
+        // cc.director.getCollisionManager().enabledDrawBoundingBox = true
+        // cc.director.getCollisionManager().enabledDebugDraw = true
     }
 
     onDisable() {

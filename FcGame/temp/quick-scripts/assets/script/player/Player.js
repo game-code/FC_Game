@@ -41,8 +41,8 @@ var Player = /** @class */ (function (_super) {
     };
     Player.prototype.onEnable = function () {
         cc.director.getCollisionManager().enabled = true;
-        cc.director.getCollisionManager().enabledDrawBoundingBox = true;
-        cc.director.getCollisionManager().enabledDebugDraw = true;
+        // cc.director.getCollisionManager().enabledDrawBoundingBox = true
+        // cc.director.getCollisionManager().enabledDebugDraw = true
     };
     Player.prototype.onDisable = function () {
         cc.director.getCollisionManager().enabled = false;
