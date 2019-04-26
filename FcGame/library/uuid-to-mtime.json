@@ -255,8 +255,8 @@
     "relativePath": "resources\\prefab"
   },
   "9bb12bae-7382-40bf-9a29-793c4d59a90e": {
-    "asset": 1556293219414,
-    "meta": 1556293219442,
+    "asset": 1556293983322,
+    "meta": 1556293983332,
     "relativePath": "scene\\Level01.fire"
   },
   "7416f028-5bcf-4caf-8727-6d03eb514ac6": {
@@ -360,8 +360,8 @@
     "relativePath": "script\\weapon"
   },
   "e66358bd-f4e2-4ee7-a63f-63c500729fa7": {
-    "asset": 1555851510946,
-    "meta": 1555851510974,
+    "asset": 1556293986246,
+    "meta": 1556293986261,
     "relativePath": "resources\\prefab\\zidan.prefab"
   },
   "e68a4204-7601-4c37-8c6e-4e5fac77aaf0": {
@@ -534,9 +534,9 @@
     "meta": 1556293063589,
     "relativePath": "script\\player\\Player.ts"
   },
-  "521f5ea0-ed96-46db-8b03-c897d5bc32fc": {
-    "asset": 1555854525250,
-    "meta": 1556293203469,
+  "b826a14d-58aa-4333-a7df-fb6defa3600d": {
+    "asset": 1556293959177,
+    "meta": 1556293959475,
     "relativePath": "script\\weapon\\Zidan.ts"
   }
 }
