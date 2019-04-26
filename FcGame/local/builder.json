@@ -9,7 +9,7 @@
   "keystoreAliasPassword": "",
   "keystorePassword": "",
   "keystorePath": "",
-  "platform": "web-mobile",
+  "platform": "web-desktop",
   "previewHeight": 640,
   "previewWidth": 1130,
   "sourceMaps": false,

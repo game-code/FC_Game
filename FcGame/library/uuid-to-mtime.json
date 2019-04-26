@@ -255,39 +255,39 @@
     "relativePath": "resources\\prefab"
   },
   "9bb12bae-7382-40bf-9a29-793c4d59a90e": {
-    "asset": 1556293983322,
-    "meta": 1556293983332,
+    "asset": 1556294947997,
+    "meta": 1556294948031,
     "relativePath": "scene\\Level01.fire"
   },
   "7416f028-5bcf-4caf-8727-6d03eb514ac6": {
     "asset": 1555600230631,
     "meta": 1555600230669,
-    "relativePath": "resources\\animation\\hero_04.png"
+    "relativePath": "resources\\minImg\\animation\\hero_04.png"
   },
   "7134f0e4-e7a1-4a54-94ee-986983483f66": {
     "asset": 1555600230632,
     "meta": 1555600230673,
-    "relativePath": "resources\\animation\\hero_01.png"
+    "relativePath": "resources\\minImg\\animation\\hero_01.png"
   },
   "f98d7c1b-109d-4a31-8a41-8d0c564eb31b": {
     "asset": 1555600230632,
     "meta": 1555600230689,
-    "relativePath": "resources\\animation\\hero_03.png"
+    "relativePath": "resources\\minImg\\animation\\hero_03.png"
   },
   "ce6a0e36-534f-43f2-81a0-fe2bc73c7309": {
     "asset": 1555600230632,
     "meta": 1555600230692,
-    "relativePath": "resources\\animation\\hero_02.png"
+    "relativePath": "resources\\minImg\\animation\\hero_02.png"
   },
   "f48abeaa-48cc-4b30-aec7-ad6ea99a2396": {
     "asset": 1555601008302,
     "meta": 1555601008351,
-    "relativePath": "resources\\animation\\player_ani.anim"
+    "relativePath": "resources\\minImg\\animation\\player_ani.anim"
   },
   "83ec9afe-1036-4789-a385-b348d814e803": {
     "asset": 1556288834680,
     "meta": 1555600601018,
-    "relativePath": "resources\\animation"
+    "relativePath": "resources\\minImg\\animation"
   },
   "223bce69-6db9-4a70-892f-d89fa4bce95d": {
     "asset": 1555601199340,
@@ -307,27 +307,27 @@
   "61939b38-142c-4f80-8207-5198508cdace": {
     "asset": 1555684668382,
     "meta": 1555684668440,
-    "relativePath": "resources\\animation\\bird_03.png"
+    "relativePath": "resources\\minImg\\animation\\bird_03.png"
   },
   "db4fe1e1-49f4-4019-a596-7c11e218e773": {
     "asset": 1555684668381,
     "meta": 1555684668445,
-    "relativePath": "resources\\animation\\bird_01.png"
+    "relativePath": "resources\\minImg\\animation\\bird_01.png"
   },
   "d12cc7ce-04af-406a-9fe7-cfa32e2ff9ab": {
     "asset": 1555684668382,
     "meta": 1555684668459,
-    "relativePath": "resources\\animation\\bird_02.png"
+    "relativePath": "resources\\minImg\\animation\\bird_02.png"
   },
   "fde82c12-2ccb-45c2-947e-f6730cae7fc1": {
     "asset": 1555684668383,
     "meta": 1555684668464,
-    "relativePath": "resources\\animation\\bird_04.png"
+    "relativePath": "resources\\minImg\\animation\\bird_04.png"
   },
   "15d505b0-d9d8-4b2f-aa37-ffa4a03368c9": {
     "asset": 1555684925471,
     "meta": 1555684925507,
-    "relativePath": "resources\\animation\\bird_ani.anim"
+    "relativePath": "resources\\minImg\\animation\\bird_ani.anim"
   },
   "69019c4b-ae9a-4b78-8c38-7d1cf0f21ebc": {
     "asset": 1555857496063,
@@ -487,7 +487,7 @@
   "c04f1f04-15c2-498c-bb50-0c0847215353": {
     "asset": 1555843555581,
     "meta": 1555843555639,
-    "relativePath": "resources\\animation\\bgup_ani.anim"
+    "relativePath": "resources\\minImg\\animation\\bgup_ani.anim"
   },
   "4893c66b-a9d4-4b6d-a0dd-abcc0fc7b1f2": {
     "asset": 1555848497752,
@@ -538,5 +538,10 @@
     "asset": 1556293959177,
     "meta": 1556293959475,
     "relativePath": "script\\weapon\\Zidan.ts"
+  },
+  "917f0ee1-253b-4002-9d0a-47a9d56bf90f": {
+    "asset": 1556294906460,
+    "meta": 1556294906465,
+    "relativePath": "resources\\minImg\\AutoAtlas.pac"
   }
 }
