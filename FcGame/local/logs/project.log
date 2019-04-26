@@ -1,0 +1,139 @@
+2019-04-21T06:43:50.948Z - normal: Load ~/.CocosCreator/settings.json
+2019-04-21T06:43:50.955Z - normal: checking language setting...
+2019-04-21T06:43:50.956Z - normal: Language: zh
+2019-04-21T06:43:53.383Z - success: protocol editor-framework registered
+2019-04-21T06:43:53.383Z - success: protocol app registered
+2019-04-21T06:43:53.384Z - success: protocol theme registered
+2019-04-21T06:43:53.384Z - success: protocol packages registered
+2019-04-21T06:43:53.384Z - success: protocol unpack registerred
+2019-04-21T06:43:53.384Z - success: protocol disable-commonjs registerred
+2019-04-21T06:43:53.583Z - normal: connected!
+2019-04-21T06:43:53.586Z - normal: Check project C:\Users\te\Desktop\FcGame
+2019-04-21T06:43:53.588Z - normal: Initializing Cocos2d
+2019-04-21T06:43:53.960Z - normal: Initializing Asset Database
+2019-04-21T06:43:54.020Z - success: protocol uuid registerred
+2019-04-21T06:43:54.020Z - success: protocol db registerred
+2019-04-21T06:43:54.020Z - success: protocol thumbnail registerred
+2019-04-21T06:43:54.020Z - normal: Loading editor/builtin packages
+2019-04-21T06:43:54.051Z - success: anysdk loaded
+2019-04-21T06:43:54.231Z - success: assets loaded
+2019-04-21T06:43:54.234Z - success: builder loaded
+2019-04-21T06:43:54.237Z - success: cocos-analytics loaded
+2019-04-21T06:43:54.242Z - success: console loaded
+2019-04-21T06:43:54.246Z - success: hierarchy loaded
+2019-04-21T06:43:54.251Z - success: inspector loaded
+2019-04-21T06:43:54.253Z - success: keystore loaded
+2019-04-21T06:43:54.256Z - success: node-library loaded
+2019-04-21T06:43:54.259Z - success: package-asset loaded
+2019-04-21T06:43:54.262Z - success: preferences loaded
+2019-04-21T06:43:54.264Z - success: project-exporter loaded
+2019-04-21T06:43:54.289Z - success: project-importer loaded
+2019-04-21T06:43:54.291Z - success: project-settings loaded
+2019-04-21T06:43:54.294Z - success: ui-kit loaded
+2019-04-21T06:43:54.297Z - success: ui-grid loaded
+2019-04-21T06:43:54.301Z - success: scene loaded
+2019-04-21T06:43:54.303Z - success: sprite-editor loaded
+2019-04-21T06:43:54.308Z - success: store loaded
+2019-04-21T06:43:54.314Z - success: timeline loaded
+2019-04-21T06:43:54.314Z - normal: Loading builtin packages
+2019-04-21T06:43:54.317Z - success: asset-db-debugger loaded
+2019-04-21T06:43:54.320Z - success: code-editor loaded
+2019-04-21T06:43:54.320Z - success: color-picker loaded
+2019-04-21T06:43:54.323Z - success: package-manager loaded
+2019-04-21T06:43:54.329Z - success: sdkbox loaded
+2019-04-21T06:43:54.335Z - success: tester loaded
+2019-04-21T06:43:54.338Z - success: ui-kit-preview-extra loaded
+2019-04-21T06:43:54.340Z - success: ui-kit-preview loaded
+2019-04-21T06:43:54.342Z - success: ui-tree loaded
+2019-04-21T06:43:56.013Z - normal: Initializing project C:\Users\te\Desktop\FcGame
+2019-04-21T06:43:56.018Z - normal: Loading packages
+2019-04-21T06:43:56.023Z - normal: Watching packages
+2019-04-21T06:43:56.042Z - normal: Run Application
+2019-04-21T06:43:56.795Z - success: preview server running at http://localhost:7456
+2019-04-21T06:44:03.535Z - normal: 1.8.1
+2019-04-21T06:44:04.244Z - error: A Class already exists with the same __classname__ : "Zidan".
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\js.js:373:24
+    at Object.js.setClassName (C:\CocosCreator\resources\engine\cocos2d\core\platform\js.js:403:9)
+    at doDefine (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:339:8)
+    at define (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:358:15)
+    at Object.CCClass [as Class] (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:920:15)
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClassDecorator.js:279:18
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClassDecorator.js:60:20
+    at window.__decorate (C:\CocosCreator\resources\engine\polyfill\typescript.js:29:95)
+    at C:\Users\te\Desktop\FcGame\temp\quick-scripts\assets\script\weapon\Zidan.js:47:13
+2019-04-21T06:44:04.245Z - error: A Class already exists with the same __cid__ : "521f56g7ZZG24sDyJfVvDL8".
+    at Object._setClassId (C:\CocosCreator\resources\engine\cocos2d\core\platform\js.js:373:24)
+    at define (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:364:20)
+    at Object.CCClass [as Class] (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:920:15)
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClassDecorator.js:279:18
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClassDecorator.js:60:20
+    at window.__decorate (C:\CocosCreator\resources\engine\polyfill\typescript.js:29:95)
+    at C:\Users\te\Desktop\FcGame\temp\quick-scripts\assets\script\weapon\Zidan.js:47:13
+    at __define (C:\Users\te\Desktop\FcGame\temp\quick-scripts\assets\script\weapon\Zidan.js:51:2)
+    at C:\Users\te\Desktop\FcGame\temp\quick-scripts\assets\script\weapon\Zidan.js:57:13
+2019-04-21T09:54:22.679Z - failed: load script [C:\Users\te\Desktop\FcGame\temp\quick-scripts\assets\script\Follow.js] failed : ReferenceError: dd is not defined
+    at __define (C:\Users\te\Desktop\FcGame\temp\quick-scripts\assets\script\Follow.js:49:1)
+    at C:\Users\te\Desktop\FcGame\temp\quick-scripts\assets\script\Follow.js:54:13
+    at Object.<anonymous> (C:\Users\te\Desktop\FcGame\temp\quick-scripts\assets\script\Follow.js:61:11)
+    at Object.<anonymous> (C:\Users\te\Desktop\FcGame\temp\quick-scripts\assets\script\Follow.js:64:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-04-21T10:15:42.269Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:193940
+2019-04-21T10:15:42.272Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:193944
+2019-04-21T10:15:42.272Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:193946
+2019-04-21T10:25:17.323Z - normal: Introduced global variable while editing: i
+2019-04-21T10:25:17.326Z - normal: Introduced global variable while editing: l
+2019-04-21T12:26:30.606Z - warn: Please specifiy a default value for "moveSpeed" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-04-21T12:28:25.059Z - warn: Please specifiy a default value for "moveSpeed" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-04-21T12:49:59.377Z - warn: Please specifiy a default value for "moveSpeed" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-04-21T13:48:52.224Z - failed: load script [C:\Users\te\Desktop\FcGame\temp\quick-scripts\assets\script\enemy\Bird.js] failed : ReferenceError: EnemyBase is not defined
+    at __define (C:\Users\te\Desktop\FcGame\temp\quick-scripts\assets\script\enemy\Bird.js:38:3)
+    at C:\Users\te\Desktop\FcGame\temp\quick-scripts\assets\script\enemy\Bird.js:44:13
+    at Object.<anonymous> (C:\Users\te\Desktop\FcGame\temp\quick-scripts\assets\script\enemy\Bird.js:51:11)
+    at Object.<anonymous> (C:\Users\te\Desktop\FcGame\temp\quick-scripts\assets\script\enemy\Bird.js:54:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-04-21T13:50:34.726Z - failed: load script [C:\Users\te\Desktop\FcGame\temp\quick-scripts\assets\script\enemy\Bird.js] failed : ReferenceError: EnemyBase is not defined
+    at __define (C:\Users\te\Desktop\FcGame\temp\quick-scripts\assets\script\enemy\Bird.js:38:3)
+    at C:\Users\te\Desktop\FcGame\temp\quick-scripts\assets\script\enemy\Bird.js:44:13
+    at Object.<anonymous> (C:\Users\te\Desktop\FcGame\temp\quick-scripts\assets\script\enemy\Bird.js:51:11)
+    at Object.<anonymous> (C:\Users\te\Desktop\FcGame\temp\quick-scripts\assets\script\enemy\Bird.js:54:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-04-21T13:51:27.620Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/script/enemy/Bird.ts.meta
+2019-04-21T13:51:45.132Z - error: TypeError: Cannot read property 'type' of undefined
+    at Object.Editor.assetdb.queryInfoByUuid [as callback] (file:///C:/CocosCreator/resources/app.asar/editor/builtin/assets/panel/panel.js:1:7594)
+    at setTimeout (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:324)
