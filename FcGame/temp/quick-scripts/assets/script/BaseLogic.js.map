@@ -1,1 +1,0 @@
-{"version":3,"sources":["BaseLogic.ts"],"names":[],"mappings":";;;;;AACM,IAAA,kBAAqC,EAAnC,oBAAO,EAAE,sBAAQ,CAAmB;AAE5C;IACI;IAEA,CAAC;IACL,gBAAC;AAAD,CAJA,AAIC,IAAA","file":"","sourceRoot":"..\\..\\..\\..\\assets\\script","sourcesContent":["\r\nconst { ccclass, property } = cc._decorator;\r\n\r\nexport default class BaseLogic {\r\n    constructor() {\r\n\r\n    }\r\n}\r\n"]}
